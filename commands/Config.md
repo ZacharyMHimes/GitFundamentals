@@ -16,6 +16,3 @@ For more information, view the [first time git setup](https://git-scm.com/book/e
 ---
 
 [Back to Home](../README.md)
-
-## Git Commands
-- [git config](./commands/Config.md)
