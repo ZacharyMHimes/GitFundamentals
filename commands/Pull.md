@@ -14,4 +14,4 @@ If there is any upstream connection estrablushed you can use the `git pull` with
 
 ---
 
-[Back to Home](./commands/Pull.md)
+[Back to Home](./commands/README.md)
